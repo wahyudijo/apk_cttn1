@@ -1,0 +1,23 @@
+/* src/App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+  color: #212529;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+h1 {
+  color: #007bff;
+}
+
+.card {
+  border: 1px solid #dee2e6;
+  margin-bottom: 20px;
+}
+
+/* Add more styling as needed */
